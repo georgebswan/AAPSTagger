@@ -1,0 +1,26 @@
+331:2 -> Santa Clara Avenue - 1009.tif == AAPS-houseNumber:1009-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+331:2 -> Santa Clara Avenue - 0109.tif == AAPS-houseNumber:0109-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+331:2 -> Santa Clara Avenue - 0019.tif == AAPS-houseNumber:0019-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+331:2 -> Santa Clara Avenue - 0009.tif == AAPS-houseNumber:0009-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+331:2 -> Santa Clara Avenue - 1009 (1).tif == AAPS-houseNumber:1009-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+33:2 -> Santa Clara Avenue - 0109 (1).tif == AAPS-houseNumber:0109-streetName:Santa Clara Avenue-sheetNumber:0033-rollNumber:02-dateTaken:10-23-1979
+1:2 -> Santa Clara Avenue - 0019 (1).tif == AAPS-houseNumber:0019-streetName:Santa Clara Avenue-sheetNumber:0001-rollNumber:02-dateTaken:10-23-1979
+331:2 -> Santa Clara Avenue - 1009 (2).tif == AAPS-houseNumber:1009-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:02-dateTaken:10-23-1979
+33:22 -> Santa Clara Avenue - 0109 (2).tif == AAPS-houseNumber:0109-streetName:Santa Clara Avenue-sheetNumber:0033-rollNumber:22-dateTaken:10-23-1979
+33:2 -> Santa Clara Avenue - 1011-15.tif == AAPS-houseNumber:1011-streetName:Santa Clara Avenue-sheetNumber:0033-rollNumber:02-dateTaken:10-23-1979
+33:2 -> Santa Clara Avenue - 1011-15.tif == AAPS-houseNumber:1015-streetName:Santa Clara Avenue-sheetNumber:0033-rollNumber:02-dateTaken:10-23-1979
+4:6 -> Santa Clara Avenue - 1039-43-45.tif == AAPS-houseNumber:1039-streetName:Santa Clara Avenue-sheetNumber:0004-rollNumber:06-dateTaken:10-23-1979
+4:6 -> Santa Clara Avenue - 1039-43-45.tif == AAPS-houseNumber:1043-streetName:Santa Clara Avenue-sheetNumber:0004-rollNumber:06-dateTaken:10-23-1979
+4:6 -> Santa Clara Avenue - 1039-43-45.tif == AAPS-houseNumber:1045-streetName:Santa Clara Avenue-sheetNumber:0004-rollNumber:06-dateTaken:10-23-1979
+331:9 -> Santa Clara Avenue - 0947.tif == AAPS-houseNumber:0947-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:09-dateTaken:10-23-1979
+331:11 -> Santa Clara Avenue - 0059.tif == AAPS-houseNumber:0059-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:11-dateTaken:10-23-1979
+331:12 -> Santa Clara Avenue - 0001.tif == AAPS-houseNumber:0001-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:12-dateTaken:10-23-1979
+331:12 -> Santa Clara Avenue - 1205A-B.tif == AAPS-houseNumber:1205A-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:12-dateTaken:10-23-1979
+331:12 -> Santa Clara Avenue - 1205A-B.tif == AAPS-houseNumber:1205B-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:12-dateTaken:10-23-1979
+331:13 -> Santa Clara Avenue - 1206A.tif == AAPS-houseNumber:1206A-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:13-dateTaken:10-23-1979
+331:14 -> Santa Clara Avenue - Yacht Club.tif == AAPS-houseNumber:Yacht Club-streetName:Santa Clara Avenue-sheetNumber:0331-rollNumber:14-dateTaken:10-23-1979
+SS1:15 -> Santa Clara Avenue - 1114.tif == AAPS-houseNumber:1114-streetName:Santa Clara Avenue-sheetNumber:SS1-rollNumber:15-dateTaken:10-23-1979
+SS2:16 -> Santa Clara Avenue - 1112.tif == AAPS-houseNumber:1112-streetName:Santa Clara Avenue-sheetNumber:SS2-rollNumber:16-dateTaken:10-23-1979
+SS7:17 -> Santa Clara Avenue - 1108.tif == AAPS-houseNumber:1108-streetName:Santa Clara Avenue-sheetNumber:SS7-rollNumber:17-dateTaken:10-23-1979
+SS1:15 -> Santa Clara Avenue - 2011-13.tif == AAPS-houseNumber:2011-streetName:Santa Clara Avenue-sheetNumber:SS1-rollNumber:15-dateTaken:10-23-1979
+SS1:15 -> Santa Clara Avenue - 2011-13.tif == AAPS-houseNumber:2013-streetName:Santa Clara Avenue-sheetNumber:SS1-rollNumber:15-dateTaken:10-23-1979
